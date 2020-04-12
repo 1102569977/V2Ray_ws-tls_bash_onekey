@@ -1,12 +1,7 @@
 ## V4Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本
-
-> 感谢 JetBrains 提供的非商业开源软件开发授权
-
-> Thanks for non-commercial open source development authorization by JetBrains
 ### 个人备份专用，使用本脚本，后果自负！
 * 个人备份专用，使用本脚本，后果自负！
 * 个人备份专用，使用本脚本，后果自负！
-
 ### 最高机密
 * 准备一个域名，并将YOUXIANG记录添加好。
 * 不知道，这下面是什么！
@@ -26,7 +21,7 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 > 没有自动拉取！
 
 ### 鸣谢
-* 感谢脚本中的作者！备份不记名！
+* 感谢脚本中的作者！wulabing
 * 感谢脚本中的作者！备份不记名！
 * 感谢脚本中的作者！备份不记名！
 * 感谢脚本中的作者！备份不记名！
